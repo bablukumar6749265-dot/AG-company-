@@ -1,0 +1,8 @@
+{
+  "name": "Remix Wallpapers",
+  "description": "Explore, preview, customize, and set high-resolution wallpapers for your home and lock screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
